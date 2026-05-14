@@ -3,7 +3,8 @@ import "./globals.css";
 
 export const metadata: Metadata = {
   title: "Web Design Portfolio - HurleyUS",
-  description: "10 industry-specific web design mockups. Modern, conversion-focused designs for real estate, automotive, SaaS, and more.",
+  description:
+    "10 industry-specific web design mockups. Modern, conversion-focused designs for real estate, automotive, SaaS, and more.",
 };
 
 export default function RootLayout({
