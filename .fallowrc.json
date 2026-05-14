@@ -6,7 +6,12 @@
     "instrumentation-client.{ts,tsx,js,jsx}",
     "providers/**/*.{ts,tsx,js,jsx}"
   ],
-  "ignorePatterns": [".next/**", "node_modules/**", "next-env.d.ts", "tsconfig.tsbuildinfo"],
+  "ignorePatterns": [
+    ".next/**",
+    "node_modules/**",
+    "next-env.d.ts",
+    "tsconfig.tsbuildinfo"
+  ],
   "duplicates": { "minOccurrences": 3 },
   "rules": {}
 }
