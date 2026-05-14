@@ -1,3 +1,6 @@
+/**
+ * App Components Mockups 06 Home Services public module surface.
+ */
 "use client";
 
 import React from "react";

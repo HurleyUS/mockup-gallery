@@ -1,3 +1,6 @@
+/**
+ * App Components Mockups 05 Fitness Wellness public module surface.
+ */
 "use client";
 
 import React from "react";

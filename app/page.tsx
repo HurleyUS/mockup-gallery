@@ -1,3 +1,6 @@
+/**
+ * App Page public module surface.
+ */
 "use client";
 
 import { useState } from "react";

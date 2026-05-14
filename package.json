@@ -12,10 +12,12 @@
     "check": "bun run typecheck && bun run build"
   },
   "dependencies": {
-    "react": "^19.0.0",
-    "react-dom": "^19.0.0",
+    "@sentry/nextjs": "^10.53.1",
+    "lucide-react": "^0.408.0",
     "next": "^16.2.0",
-    "lucide-react": "^0.408.0"
+    "posthog-js": "^1.373.4",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
   },
   "devDependencies": {
     "typescript": "^5.0.0",

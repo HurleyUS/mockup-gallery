@@ -1,3 +1,6 @@
+/**
+ * App Components Mockups 07 Saas Analytics public module surface.
+ */
 "use client";
 
 import React from "react";

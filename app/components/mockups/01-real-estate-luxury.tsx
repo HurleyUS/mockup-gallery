@@ -1,3 +1,6 @@
+/**
+ * App Components Mockups 01 Real Estate Luxury public module surface.
+ */
 "use client";
 
 import React from "react";

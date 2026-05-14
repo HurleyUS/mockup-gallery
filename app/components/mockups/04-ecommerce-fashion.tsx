@@ -1,3 +1,6 @@
+/**
+ * App Components Mockups 04 Ecommerce Fashion public module surface.
+ */
 "use client";
 
 import React from "react";

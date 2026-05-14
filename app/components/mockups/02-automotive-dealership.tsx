@@ -1,3 +1,6 @@
+/**
+ * App Components Mockups 02 Automotive Dealership public module surface.
+ */
 "use client";
 
 import React from "react";

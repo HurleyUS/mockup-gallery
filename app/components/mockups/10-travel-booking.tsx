@@ -1,3 +1,6 @@
+/**
+ * App Components Mockups 10 Travel Booking public module surface.
+ */
 "use client";
 
 import React from "react";

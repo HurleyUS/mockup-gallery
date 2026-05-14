@@ -1,4 +1,8 @@
+/**
+ * App Layout public module surface.
+ */
 import type { Metadata } from "next";
+import { PostHogProvider } from "@/providers/posthog-provider";
 import "./globals.css";
 
 export const metadata: Metadata = {
@@ -14,7 +18,9 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <body className="bg-gray-900 text-white">{children}</body>
+      <body className="bg-gray-900 text-white">
+        <PostHogProvider>{children}</PostHogProvider>
+      </body>
     </html>
   );
 }

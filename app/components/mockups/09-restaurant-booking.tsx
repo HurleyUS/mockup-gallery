@@ -1,3 +1,6 @@
+/**
+ * App Components Mockups 09 Restaurant Booking public module surface.
+ */
 "use client";
 
 import React from "react";

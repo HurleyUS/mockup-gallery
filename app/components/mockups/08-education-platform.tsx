@@ -1,3 +1,6 @@
+/**
+ * App Components Mockups 08 Education Platform public module surface.
+ */
 "use client";
 
 import React from "react";

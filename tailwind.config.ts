@@ -1,3 +1,6 @@
+/**
+ * Tailwind.config public module surface.
+ */
 import type { Config } from "tailwindcss";
 
 const config: Config = {
